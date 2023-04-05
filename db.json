@@ -1,0 +1,51 @@
+{
+  "AB": {
+    "C": {
+      "U": "",
+      "isT": false,
+      "isJ": false,
+      "Area": [
+        "PH",
+        "IN",
+        "BR",
+        "HK"
+      ],
+      "Event": [
+        "adj_complete_registration",
+        "adj_purchase1",
+        "adj_purchase1_value",
+        "deposit",
+        "depositSubmit",
+        "deposit-success",
+        "firstDeposit",
+        "firstDepositArrival",
+        "first-deposit-success",
+        "firstOpen",
+        "first-recharge-success",
+        "register",
+        "registerSubmit",
+        "register-success",
+        "signup-success",
+        "withdraw"
+      ],
+      "ID": [
+        "p6z4qb",
+        "80ecjo",
+        "z4jus2",
+        "j2wgla",
+        "if3cbl",
+        "d1jdjy",
+        "21eqj0",
+        "fi7azx",
+        "hmm4jx",
+        "cybtqf",
+        "2y2nhn",
+        "3nxb4d",
+        "gakxtn",
+        "eqzo8g",
+        "rsya3w",
+        "ngocpu"
+      ]
+    }
+  }
+}
