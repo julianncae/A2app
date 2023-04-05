@@ -2,8 +2,8 @@
   "BHJ": {
     "CB": {
       "code":200,
-      "U": "",
-      "isT": false,
+      "U": "https://www.baidu.com/",
+      "isT": true,
       "isJ": false,
       "Event": [
         "adj_complete_registration",
